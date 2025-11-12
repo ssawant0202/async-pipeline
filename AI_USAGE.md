@@ -852,6 +852,7 @@ This project was a learning experience in using AI as a tool while maintaining f
 - Documenting the entire process honestly
 
 Used AI to format and enrich AI_USAGGE.md
+Used AI to polish READ_ME.md
 
 **Key Takeaway:** AI is like having an experienced mentor available 24/7. It can show you patterns and suggest approaches, but you must still do the work of understanding, evaluating trade-offs, and taking ownership of the final implementation.
 
