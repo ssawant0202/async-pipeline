@@ -1,0 +1,349 @@
+{"id": "dummyjson_1", "title": "Essence Mascara Lash Princess", "source": "dummyjson", "price": 9.99, "currency": "USD", "category": "beauty", "processed_at": "2025-11-12T05:21:04.246920"}
+{"id": "dummyjson_2", "title": "Eyeshadow Palette with Mirror", "source": "dummyjson", "price": 19.99, "currency": "USD", "category": "beauty", "processed_at": "2025-11-12T05:21:04.247000"}
+{"id": "dummyjson_3", "title": "Powder Canister", "source": "dummyjson", "price": 14.99, "currency": "USD", "category": "beauty", "processed_at": "2025-11-12T05:21:04.247029"}
+{"id": "dummyjson_4", "title": "Red Lipstick", "source": "dummyjson", "price": 12.99, "currency": "USD", "category": "beauty", "processed_at": "2025-11-12T05:21:04.247047"}
+{"id": "dummyjson_5", "title": "Red Nail Polish", "source": "dummyjson", "price": 8.99, "currency": "USD", "category": "beauty", "processed_at": "2025-11-12T05:21:04.247064"}
+{"id": "dummyjson_6", "title": "Calvin Klein CK One", "source": "dummyjson", "price": 49.99, "currency": "USD", "category": "fragrances", "processed_at": "2025-11-12T05:21:04.247077"}
+{"id": "dummyjson_7", "title": "Chanel Coco Noir Eau De", "source": "dummyjson", "price": 129.99, "currency": "USD", "category": "fragrances", "processed_at": "2025-11-12T05:21:04.247091"}
+{"id": "dummyjson_8", "title": "Dior J'adore", "source": "dummyjson", "price": 89.99, "currency": "USD", "category": "fragrances", "processed_at": "2025-11-12T05:21:04.247104"}
+{"id": "dummyjson_9", "title": "Dolce Shine Eau de", "source": "dummyjson", "price": 69.99, "currency": "USD", "category": "fragrances", "processed_at": "2025-11-12T05:21:04.247117"}
+{"id": "dummyjson_10", "title": "Gucci Bloom Eau de", "source": "dummyjson", "price": 79.99, "currency": "USD", "category": "fragrances", "processed_at": "2025-11-12T05:21:04.247129"}
+{"id": "dummyjson_11", "title": "Annibale Colombo Bed", "source": "dummyjson", "price": 1899.99, "currency": "USD", "category": "furniture", "processed_at": "2025-11-12T05:21:04.348419"}
+{"id": "dummyjson_12", "title": "Annibale Colombo Sofa", "source": "dummyjson", "price": 2499.99, "currency": "USD", "category": "furniture", "processed_at": "2025-11-12T05:21:04.348500"}
+{"id": "dummyjson_13", "title": "Bedside Table African Cherry", "source": "dummyjson", "price": 299.99, "currency": "USD", "category": "furniture", "processed_at": "2025-11-12T05:21:04.348523"}
+{"id": "dummyjson_14", "title": "Knoll Saarinen Executive Conference Chair", "source": "dummyjson", "price": 499.99, "currency": "USD", "category": "furniture", "processed_at": "2025-11-12T05:21:04.348542"}
+{"id": "dummyjson_15", "title": "Wooden Bathroom Sink With Mirror", "source": "dummyjson", "price": 799.99, "currency": "USD", "category": "furniture", "processed_at": "2025-11-12T05:21:04.348558"}
+{"id": "dummyjson_16", "title": "Apple", "source": "dummyjson", "price": 1.99, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:04.348576"}
+{"id": "dummyjson_17", "title": "Beef Steak", "source": "dummyjson", "price": 12.99, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:04.348592"}
+{"id": "dummyjson_18", "title": "Cat Food", "source": "dummyjson", "price": 8.99, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:04.348607"}
+{"id": "dummyjson_19", "title": "Chicken Meat", "source": "dummyjson", "price": 9.99, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:04.348623"}
+{"id": "dummyjson_20", "title": "Cooking Oil", "source": "dummyjson", "price": 4.99, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:04.348637"}
+{"id": "jsonplaceholder_1", "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.360235"}
+{"id": "jsonplaceholder_2", "title": "qui est esse", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.360317"}
+{"id": "jsonplaceholder_3", "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.360340"}
+{"id": "jsonplaceholder_4", "title": "eum et est occaecati", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.360354"}
+{"id": "jsonplaceholder_5", "title": "nesciunt quas odio", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.360368"}
+{"id": "jsonplaceholder_6", "title": "dolorem eum magni eos aperiam quia", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.360382"}
+{"id": "jsonplaceholder_7", "title": "magnam facilis autem", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.360394"}
+{"id": "jsonplaceholder_8", "title": "dolorem dolore est ipsam", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.360408"}
+{"id": "jsonplaceholder_9", "title": "nesciunt iure omnis dolorem tempora et accusantium", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.360421"}
+{"id": "jsonplaceholder_10", "title": "optio molestias id quia eum", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.360433"}
+{"id": "dummyjson_21", "title": "Cucumber", "source": "dummyjson", "price": 1.49, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:04.452588"}
+{"id": "dummyjson_22", "title": "Dog Food", "source": "dummyjson", "price": 10.99, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:04.452653"}
+{"id": "dummyjson_23", "title": "Eggs", "source": "dummyjson", "price": 2.99, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:04.452678"}
+{"id": "dummyjson_24", "title": "Fish Steak", "source": "dummyjson", "price": 14.99, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:04.452697"}
+{"id": "dummyjson_25", "title": "Green Bell Pepper", "source": "dummyjson", "price": 1.29, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:04.452715"}
+{"id": "dummyjson_26", "title": "Green Chili Pepper", "source": "dummyjson", "price": 0.99, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:04.452732"}
+{"id": "dummyjson_27", "title": "Honey Jar", "source": "dummyjson", "price": 6.99, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:04.452750"}
+{"id": "dummyjson_28", "title": "Ice Cream", "source": "dummyjson", "price": 5.49, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:04.452766"}
+{"id": "dummyjson_29", "title": "Juice", "source": "dummyjson", "price": 3.99, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:04.452783"}
+{"id": "dummyjson_30", "title": "Kiwi", "source": "dummyjson", "price": 2.49, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:04.452799"}
+{"id": "dummyjson_31", "title": "Lemon", "source": "dummyjson", "price": 0.79, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:04.551609"}
+{"id": "dummyjson_32", "title": "Milk", "source": "dummyjson", "price": 3.49, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:04.551702"}
+{"id": "dummyjson_33", "title": "Mulberry", "source": "dummyjson", "price": 4.99, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:04.551739"}
+{"id": "dummyjson_34", "title": "Nescafe Coffee", "source": "dummyjson", "price": 7.99, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:04.551770"}
+{"id": "dummyjson_35", "title": "Potatoes", "source": "dummyjson", "price": 2.29, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:04.551800"}
+{"id": "dummyjson_36", "title": "Protein Powder", "source": "dummyjson", "price": 19.99, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:04.552090"}
+{"id": "dummyjson_37", "title": "Red Onions", "source": "dummyjson", "price": 1.99, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:04.552121"}
+{"id": "dummyjson_38", "title": "Rice", "source": "dummyjson", "price": 5.99, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:04.552138"}
+{"id": "dummyjson_39", "title": "Soft Drinks", "source": "dummyjson", "price": 1.99, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:04.552155"}
+{"id": "dummyjson_40", "title": "Strawberry", "source": "dummyjson", "price": 3.99, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:04.552171"}
+{"id": "jsonplaceholder_11", "title": "et ea vero quia laudantium autem", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.595402"}
+{"id": "jsonplaceholder_12", "title": "in quibusdam tempore odit est dolorem", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.595463"}
+{"id": "jsonplaceholder_13", "title": "dolorum ut in voluptas mollitia et saepe quo animi", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.595478"}
+{"id": "jsonplaceholder_14", "title": "voluptatem eligendi optio", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.595489"}
+{"id": "jsonplaceholder_15", "title": "eveniet quod temporibus", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.595499"}
+{"id": "jsonplaceholder_16", "title": "sint suscipit perspiciatis velit dolorum rerum ipsa laboriosam odio", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.595508"}
+{"id": "jsonplaceholder_17", "title": "fugit voluptas sed molestias voluptatem provident", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.595517"}
+{"id": "jsonplaceholder_18", "title": "voluptate et itaque vero tempora molestiae", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.595525"}
+{"id": "jsonplaceholder_19", "title": "adipisci placeat illum aut reiciendis qui", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.595536"}
+{"id": "jsonplaceholder_20", "title": "doloribus ad provident suscipit at", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.595545"}
+{"id": "jsonplaceholder_21", "title": "asperiores ea ipsam voluptatibus modi minima quia sint", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.836768"}
+{"id": "jsonplaceholder_22", "title": "dolor sint quo a velit explicabo quia nam", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.836796"}
+{"id": "jsonplaceholder_23", "title": "maxime id vitae nihil numquam", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.836806"}
+{"id": "jsonplaceholder_24", "title": "autem hic labore sunt dolores incidunt", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.836814"}
+{"id": "jsonplaceholder_25", "title": "rem alias distinctio quo quis", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.836821"}
+{"id": "jsonplaceholder_26", "title": "est et quae odit qui non", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.836827"}
+{"id": "jsonplaceholder_27", "title": "quasi id et eos tenetur aut quo autem", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.836836"}
+{"id": "jsonplaceholder_28", "title": "delectus ullam et corporis nulla voluptas sequi", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.836843"}
+{"id": "jsonplaceholder_29", "title": "iusto eius quod necessitatibus culpa ea", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.836850"}
+{"id": "jsonplaceholder_30", "title": "a quo magni similique perferendis", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:04.836856"}
+{"id": "jsonplaceholder_31", "title": "ullam ut quidem id aut vel consequuntur", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.066286"}
+{"id": "jsonplaceholder_32", "title": "doloremque illum aliquid sunt", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.066368"}
+{"id": "jsonplaceholder_33", "title": "qui explicabo molestiae dolorem", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.066406"}
+{"id": "jsonplaceholder_34", "title": "magnam ut rerum iure", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.066438"}
+{"id": "jsonplaceholder_35", "title": "id nihil consequatur molestias animi provident", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.066467"}
+{"id": "jsonplaceholder_36", "title": "fuga nam accusamus voluptas reiciendis itaque", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.066495"}
+{"id": "jsonplaceholder_37", "title": "provident vel ut sit ratione est", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.066523"}
+{"id": "jsonplaceholder_38", "title": "explicabo et eos deleniti nostrum ab id repellendus", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.066550"}
+{"id": "jsonplaceholder_39", "title": "eos dolorem iste accusantium est eaque quam", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.066578"}
+{"id": "jsonplaceholder_40", "title": "enim quo cumque", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.066605"}
+{"id": "dummyjson_41", "title": "Tissue Paper Box", "source": "dummyjson", "price": 2.49, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:05.121391"}
+{"id": "dummyjson_42", "title": "Water", "source": "dummyjson", "price": 0.99, "currency": "USD", "category": "groceries", "processed_at": "2025-11-12T05:21:05.121429"}
+{"id": "dummyjson_43", "title": "Decoration Swing", "source": "dummyjson", "price": 59.99, "currency": "USD", "category": "home-decoration", "processed_at": "2025-11-12T05:21:05.121446"}
+{"id": "dummyjson_44", "title": "Family Tree Photo Frame", "source": "dummyjson", "price": 29.99, "currency": "USD", "category": "home-decoration", "processed_at": "2025-11-12T05:21:05.121462"}
+{"id": "dummyjson_45", "title": "House Showpiece Plant", "source": "dummyjson", "price": 39.99, "currency": "USD", "category": "home-decoration", "processed_at": "2025-11-12T05:21:05.121473"}
+{"id": "dummyjson_46", "title": "Plant Pot", "source": "dummyjson", "price": 14.99, "currency": "USD", "category": "home-decoration", "processed_at": "2025-11-12T05:21:05.121483"}
+{"id": "dummyjson_47", "title": "Table Lamp", "source": "dummyjson", "price": 49.99, "currency": "USD", "category": "home-decoration", "processed_at": "2025-11-12T05:21:05.121539"}
+{"id": "dummyjson_48", "title": "Bamboo Spatula", "source": "dummyjson", "price": 7.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.121554"}
+{"id": "dummyjson_49", "title": "Black Aluminium Cup", "source": "dummyjson", "price": 5.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.121565"}
+{"id": "dummyjson_50", "title": "Black Whisk", "source": "dummyjson", "price": 9.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.121576"}
+{"id": "dummyjson_51", "title": "Boxed Blender", "source": "dummyjson", "price": 39.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.228060"}
+{"id": "dummyjson_52", "title": "Carbon Steel Wok", "source": "dummyjson", "price": 29.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.228095"}
+{"id": "dummyjson_53", "title": "Chopping Board", "source": "dummyjson", "price": 12.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.228106"}
+{"id": "dummyjson_54", "title": "Citrus Squeezer Yellow", "source": "dummyjson", "price": 8.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.228114"}
+{"id": "dummyjson_55", "title": "Egg Slicer", "source": "dummyjson", "price": 6.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.228122"}
+{"id": "dummyjson_56", "title": "Electric Stove", "source": "dummyjson", "price": 49.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.228129"}
+{"id": "dummyjson_57", "title": "Fine Mesh Strainer", "source": "dummyjson", "price": 9.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.228137"}
+{"id": "dummyjson_58", "title": "Fork", "source": "dummyjson", "price": 3.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.228144"}
+{"id": "dummyjson_59", "title": "Glass", "source": "dummyjson", "price": 4.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.228151"}
+{"id": "dummyjson_60", "title": "Grater Black", "source": "dummyjson", "price": 10.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.228158"}
+{"id": "jsonplaceholder_41", "title": "non est facere", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.311020"}
+{"id": "jsonplaceholder_42", "title": "commodi ullam sint et excepturi error explicabo praesentium voluptas", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.311047"}
+{"id": "jsonplaceholder_43", "title": "eligendi iste nostrum consequuntur adipisci praesentium sit beatae perferendis", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.311056"}
+{"id": "jsonplaceholder_44", "title": "optio dolor molestias sit", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.311063"}
+{"id": "jsonplaceholder_45", "title": "ut numquam possimus omnis eius suscipit laudantium iure", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.311069"}
+{"id": "jsonplaceholder_46", "title": "aut quo modi neque nostrum ducimus", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.311075"}
+{"id": "jsonplaceholder_47", "title": "quibusdam cumque rem aut deserunt", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.311080"}
+{"id": "jsonplaceholder_48", "title": "ut voluptatem illum ea doloribus itaque eos", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.311085"}
+{"id": "jsonplaceholder_49", "title": "laborum non sunt aut ut assumenda perspiciatis voluptas", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.311091"}
+{"id": "jsonplaceholder_50", "title": "repellendus qui recusandae incidunt voluptates tenetur qui omnis exercitationem", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.311096"}
+{"id": "dummyjson_61", "title": "Hand Blender", "source": "dummyjson", "price": 34.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.324166"}
+{"id": "dummyjson_62", "title": "Ice Cube Tray", "source": "dummyjson", "price": 5.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.324187"}
+{"id": "dummyjson_63", "title": "Kitchen Sieve", "source": "dummyjson", "price": 7.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.324196"}
+{"id": "dummyjson_64", "title": "Knife", "source": "dummyjson", "price": 14.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.324202"}
+{"id": "dummyjson_65", "title": "Lunch Box", "source": "dummyjson", "price": 12.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.324209"}
+{"id": "dummyjson_66", "title": "Microwave Oven", "source": "dummyjson", "price": 89.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.324215"}
+{"id": "dummyjson_67", "title": "Mug Tree Stand", "source": "dummyjson", "price": 15.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.324221"}
+{"id": "dummyjson_68", "title": "Pan", "source": "dummyjson", "price": 24.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.324227"}
+{"id": "dummyjson_69", "title": "Plate", "source": "dummyjson", "price": 3.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.324233"}
+{"id": "dummyjson_70", "title": "Red Tongs", "source": "dummyjson", "price": 6.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.324239"}
+{"id": "escuelajs_1", "title": "Majestic Mountain Graphic T-Shirt", "source": "escuelajs", "price": 44.0, "currency": "USD", "category": "Clothes", "processed_at": "2025-11-12T05:21:05.397876"}
+{"id": "escuelajs_2", "title": "Classic Red Pullover Hoodie", "source": "escuelajs", "price": 10.0, "currency": "USD", "category": "Clothes", "processed_at": "2025-11-12T05:21:05.397933"}
+{"id": "escuelajs_3", "title": "Classic Heather Gray Hoodie", "source": "escuelajs", "price": 69.0, "currency": "USD", "category": "Clothes", "processed_at": "2025-11-12T05:21:05.397948"}
+{"id": "escuelajs_4", "title": "Classic Grey Hooded Sweatshirt", "source": "escuelajs", "price": 90.0, "currency": "USD", "category": "Clothes", "processed_at": "2025-11-12T05:21:05.397958"}
+{"id": "escuelajs_5", "title": "Classic Black Hooded Sweatshirt", "source": "escuelajs", "price": 79.0, "currency": "USD", "category": "Clothes", "processed_at": "2025-11-12T05:21:05.397967"}
+{"id": "escuelajs_6", "title": "Classic Comfort Fit Joggers", "source": "escuelajs", "price": 25.0, "currency": "USD", "category": "Clothes", "processed_at": "2025-11-12T05:21:05.397975"}
+{"id": "escuelajs_7", "title": "Classic Comfort Drawstring Joggers", "source": "escuelajs", "price": 79.0, "currency": "USD", "category": "Clothes", "processed_at": "2025-11-12T05:21:05.397982"}
+{"id": "escuelajs_8", "title": "Classic Red Jogger Sweatpants", "source": "escuelajs", "price": 98.0, "currency": "USD", "category": "Clothes", "processed_at": "2025-11-12T05:21:05.397990"}
+{"id": "escuelajs_9", "title": "Classic Navy Blue Baseball Cap", "source": "escuelajs", "price": 61.0, "currency": "USD", "category": "Clothes", "processed_at": "2025-11-12T05:21:05.397998"}
+{"id": "escuelajs_10", "title": "Classic Blue Baseball Cap", "source": "escuelajs", "price": 86.0, "currency": "USD", "category": "Clothes", "processed_at": "2025-11-12T05:21:05.398060"}
+{"id": "dummyjson_71", "title": "Silver Pot With Glass Cap", "source": "dummyjson", "price": 39.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.418256"}
+{"id": "dummyjson_72", "title": "Slotted Turner", "source": "dummyjson", "price": 8.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.418280"}
+{"id": "dummyjson_73", "title": "Spice Rack", "source": "dummyjson", "price": 19.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.418292"}
+{"id": "dummyjson_74", "title": "Spoon", "source": "dummyjson", "price": 4.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.418303"}
+{"id": "dummyjson_75", "title": "Tray", "source": "dummyjson", "price": 16.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.418313"}
+{"id": "dummyjson_76", "title": "Wooden Rolling Pin", "source": "dummyjson", "price": 11.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.418322"}
+{"id": "dummyjson_77", "title": "Yellow Peeler", "source": "dummyjson", "price": 5.99, "currency": "USD", "category": "kitchen-accessories", "processed_at": "2025-11-12T05:21:05.418330"}
+{"id": "dummyjson_78", "title": "Apple MacBook Pro 14 Inch Space Grey", "source": "dummyjson", "price": 1999.99, "currency": "USD", "category": "laptops", "processed_at": "2025-11-12T05:21:05.418339"}
+{"id": "dummyjson_79", "title": "Asus Zenbook Pro Dual Screen Laptop", "source": "dummyjson", "price": 1799.99, "currency": "USD", "category": "laptops", "processed_at": "2025-11-12T05:21:05.418349"}
+{"id": "dummyjson_80", "title": "Huawei Matebook X Pro", "source": "dummyjson", "price": 1399.99, "currency": "USD", "category": "laptops", "processed_at": "2025-11-12T05:21:05.418358"}
+{"id": "dummyjson_81", "title": "Lenovo Yoga 920", "source": "dummyjson", "price": 1099.99, "currency": "USD", "category": "laptops", "processed_at": "2025-11-12T05:21:05.512636"}
+{"id": "dummyjson_82", "title": "New DELL XPS 13 9300 Laptop", "source": "dummyjson", "price": 1499.99, "currency": "USD", "category": "laptops", "processed_at": "2025-11-12T05:21:05.512681"}
+{"id": "dummyjson_83", "title": "Blue & Black Check Shirt", "source": "dummyjson", "price": 29.99, "currency": "USD", "category": "mens-shirts", "processed_at": "2025-11-12T05:21:05.512698"}
+{"id": "dummyjson_84", "title": "Gigabyte Aorus Men Tshirt", "source": "dummyjson", "price": 24.99, "currency": "USD", "category": "mens-shirts", "processed_at": "2025-11-12T05:21:05.512712"}
+{"id": "dummyjson_85", "title": "Man Plaid Shirt", "source": "dummyjson", "price": 34.99, "currency": "USD", "category": "mens-shirts", "processed_at": "2025-11-12T05:21:05.512723"}
+{"id": "dummyjson_86", "title": "Man Short Sleeve Shirt", "source": "dummyjson", "price": 19.99, "currency": "USD", "category": "mens-shirts", "processed_at": "2025-11-12T05:21:05.512734"}
+{"id": "dummyjson_87", "title": "Men Check Shirt", "source": "dummyjson", "price": 27.99, "currency": "USD", "category": "mens-shirts", "processed_at": "2025-11-12T05:21:05.512745"}
+{"id": "dummyjson_88", "title": "Nike Air Jordan 1 Red And Black", "source": "dummyjson", "price": 149.99, "currency": "USD", "category": "mens-shoes", "processed_at": "2025-11-12T05:21:05.512754"}
+{"id": "dummyjson_89", "title": "Nike Baseball Cleats", "source": "dummyjson", "price": 79.99, "currency": "USD", "category": "mens-shoes", "processed_at": "2025-11-12T05:21:05.512767"}
+{"id": "dummyjson_90", "title": "Puma Future Rider Trainers", "source": "dummyjson", "price": 89.99, "currency": "USD", "category": "mens-shoes", "processed_at": "2025-11-12T05:21:05.512778"}
+{"id": "escuelajs_11", "title": "Classic Red Baseball Cap", "source": "escuelajs", "price": 35.0, "currency": "USD", "category": "Clothes", "processed_at": "2025-11-12T05:21:05.580718"}
+{"id": "escuelajs_12", "title": "Classic Black Baseball Cap", "source": "escuelajs", "price": 58.0, "currency": "USD", "category": "Clothes", "processed_at": "2025-11-12T05:21:05.580787"}
+{"id": "escuelajs_13", "title": "Classic Olive Chino Shorts", "source": "escuelajs", "price": 84.0, "currency": "USD", "category": "Clothes", "processed_at": "2025-11-12T05:21:05.580806"}
+{"id": "escuelajs_14", "title": "Classic High-Waisted Athletic Shorts", "source": "escuelajs", "price": 43.0, "currency": "USD", "category": "Clothes", "processed_at": "2025-11-12T05:21:05.580821"}
+{"id": "escuelajs_15", "title": "Classic White Crew Neck T-Shirt", "source": "escuelajs", "price": 39.0, "currency": "USD", "category": "Clothes", "processed_at": "2025-11-12T05:21:05.580835"}
+{"id": "escuelajs_16", "title": "Classic White Tee - Timeless Style and Comfort", "source": "escuelajs", "price": 73.0, "currency": "USD", "category": "Clothes", "processed_at": "2025-11-12T05:21:05.580850"}
+{"id": "escuelajs_17", "title": "Classic Black T-Shirt", "source": "escuelajs", "price": 35.0, "currency": "USD", "category": "Clothes", "processed_at": "2025-11-12T05:21:05.580864"}
+{"id": "escuelajs_18", "title": "Sleek White & Orange Wireless Gaming Controller", "source": "escuelajs", "price": 69.0, "currency": "USD", "category": "Electronics", "processed_at": "2025-11-12T05:21:05.580876"}
+{"id": "escuelajs_19", "title": "Sleek Wireless Headphone & Inked Earbud Set", "source": "escuelajs", "price": 44.0, "currency": "USD", "category": "Electronics", "processed_at": "2025-11-12T05:21:05.580893"}
+{"id": "escuelajs_20", "title": "Sleek Comfort-Fit Over-Ear Headphones", "source": "escuelajs", "price": 28.0, "currency": "USD", "category": "Electronics", "processed_at": "2025-11-12T05:21:05.580910"}
+{"id": "jsonplaceholder_51", "title": "soluta aliquam aperiam consequatur illo quis voluptas", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.582920"}
+{"id": "jsonplaceholder_52", "title": "qui enim et consequuntur quia animi quis voluptate quibusdam", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.583025"}
+{"id": "jsonplaceholder_53", "title": "ut quo aut ducimus alias", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.583057"}
+{"id": "jsonplaceholder_54", "title": "sit asperiores ipsam eveniet odio non quia", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.583077"}
+{"id": "jsonplaceholder_55", "title": "sit vel voluptatem et non libero", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.583089"}
+{"id": "jsonplaceholder_56", "title": "qui et at rerum necessitatibus", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.583101"}
+{"id": "jsonplaceholder_57", "title": "sed ab est est", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.583113"}
+{"id": "jsonplaceholder_58", "title": "voluptatum itaque dolores nisi et quasi", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.583124"}
+{"id": "jsonplaceholder_59", "title": "qui commodi dolor at maiores et quis id accusantium", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.583136"}
+{"id": "jsonplaceholder_60", "title": "consequatur placeat omnis quisquam quia reprehenderit fugit veritatis facere", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.583150"}
+{"id": "escuelajs_21", "title": "Efficient 2-Slice Toaster", "source": "escuelajs", "price": 48.0, "currency": "USD", "category": "Electronics", "processed_at": "2025-11-12T05:21:05.757319"}
+{"id": "escuelajs_22", "title": "Sleek Wireless Computer Mouse", "source": "escuelajs", "price": 10.0, "currency": "USD", "category": "Electronics", "processed_at": "2025-11-12T05:21:05.757574"}
+{"id": "escuelajs_23", "title": "Sleek Modern Laptop with Ambient Lighting", "source": "escuelajs", "price": 43.0, "currency": "USD", "category": "Electronics", "processed_at": "2025-11-12T05:21:05.757635"}
+{"id": "escuelajs_24", "title": "Sleek Modern Laptop for Professionals", "source": "escuelajs", "price": 97.0, "currency": "USD", "category": "Electronics", "processed_at": "2025-11-12T05:21:05.757662"}
+{"id": "escuelajs_25", "title": "Stylish Red & Silver Over-Ear Headphones", "source": "escuelajs", "price": 39.0, "currency": "USD", "category": "Electronics", "processed_at": "2025-11-12T05:21:05.757683"}
+{"id": "escuelajs_26", "title": "Sleek Mirror Finish Phone Case", "source": "escuelajs", "price": 27.0, "currency": "USD", "category": "Electronics", "processed_at": "2025-11-12T05:21:05.757703"}
+{"id": "escuelajs_27", "title": "Sleek Smartwatch with Vibrant Display", "source": "escuelajs", "price": 16.0, "currency": "USD", "category": "Electronics", "processed_at": "2025-11-12T05:21:05.757725"}
+{"id": "escuelajs_28", "title": "Sleek Modern Leather Sofa", "source": "escuelajs", "price": 53.0, "currency": "USD", "category": "Furniture", "processed_at": "2025-11-12T05:21:05.757748"}
+{"id": "escuelajs_29", "title": "Mid-Century Modern Wooden Dining Table", "source": "escuelajs", "price": 24.0, "currency": "USD", "category": "Furniture", "processed_at": "2025-11-12T05:21:05.757769"}
+{"id": "escuelajs_30", "title": "Elegant Golden-Base Stone Top Dining Table", "source": "escuelajs", "price": 66.0, "currency": "USD", "category": "Furniture", "processed_at": "2025-11-12T05:21:05.757789"}
+{"id": "escuelajs_31", "title": "Modern Elegance Teal Armchair", "source": "escuelajs", "price": 25.0, "currency": "USD", "category": "Furniture", "processed_at": "2025-11-12T05:21:05.845825"}
+{"id": "escuelajs_32", "title": "Elegant Solid Wood Dining Table", "source": "escuelajs", "price": 67.0, "currency": "USD", "category": "Furniture", "processed_at": "2025-11-12T05:21:05.845894"}
+{"id": "escuelajs_33", "title": "Modern Minimalist Workstation Setup", "source": "escuelajs", "price": 49.0, "currency": "USD", "category": "Furniture", "processed_at": "2025-11-12T05:21:05.845920"}
+{"id": "escuelajs_34", "title": "Modern Ergonomic Office Chair", "source": "escuelajs", "price": 71.0, "currency": "USD", "category": "Furniture", "processed_at": "2025-11-12T05:21:05.845942"}
+{"id": "escuelajs_35", "title": "Futuristic Holographic Soccer Cleats", "source": "escuelajs", "price": 39.0, "currency": "USD", "category": "Shoes", "processed_at": "2025-11-12T05:21:05.845960"}
+{"id": "escuelajs_36", "title": "Rainbow Glitter High Heels", "source": "escuelajs", "price": 39.0, "currency": "USD", "category": "Shoes", "processed_at": "2025-11-12T05:21:05.845981"}
+{"id": "escuelajs_37", "title": "Chic Summer Denim Espadrille Sandals", "source": "escuelajs", "price": 33.0, "currency": "USD", "category": "Shoes", "processed_at": "2025-11-12T05:21:05.845999"}
+{"id": "escuelajs_38", "title": "Vibrant Runners: Bold Orange & Blue Sneakers", "source": "escuelajs", "price": 27.0, "currency": "USD", "category": "Shoes", "processed_at": "2025-11-12T05:21:05.846017"}
+{"id": "escuelajs_39", "title": "Vibrant Pink Classic Sneakers", "source": "escuelajs", "price": 84.0, "currency": "USD", "category": "Shoes", "processed_at": "2025-11-12T05:21:05.846034"}
+{"id": "escuelajs_40", "title": "Futuristic Silver and Gold High-Top Sneaker", "source": "escuelajs", "price": 68.0, "currency": "USD", "category": "Shoes", "processed_at": "2025-11-12T05:21:05.846052"}
+{"id": "jsonplaceholder_61", "title": "voluptatem doloribus consectetur est ut ducimus", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.859658"}
+{"id": "jsonplaceholder_62", "title": "beatae enim quia vel", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.859719"}
+{"id": "jsonplaceholder_63", "title": "voluptas blanditiis repellendus animi ducimus error sapiente et suscipit", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.859739"}
+{"id": "jsonplaceholder_64", "title": "et fugit quas eum in in aperiam quod", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.859756"}
+{"id": "jsonplaceholder_65", "title": "consequatur id enim sunt et et", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.859771"}
+{"id": "jsonplaceholder_66", "title": "repudiandae ea animi iusto", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.859785"}
+{"id": "jsonplaceholder_67", "title": "aliquid eos sed fuga est maxime repellendus", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.859799"}
+{"id": "jsonplaceholder_68", "title": "odio quis facere architecto reiciendis optio", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.859814"}
+{"id": "jsonplaceholder_69", "title": "fugiat quod pariatur odit minima", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.859829"}
+{"id": "jsonplaceholder_70", "title": "voluptatem laborum magni", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:05.859843"}
+{"id": "escuelajs_41", "title": "Futuristic Chic High-Heel Boots", "source": "escuelajs", "price": 36.0, "currency": "USD", "category": "Shoes", "processed_at": "2025-11-12T05:21:05.964233"}
+{"id": "escuelajs_42", "title": "Elegant Patent Leather Peep-Toe Pumps with Gold-Tone Heel", "source": "escuelajs", "price": 53.0, "currency": "USD", "category": "Shoes", "processed_at": "2025-11-12T05:21:05.964334"}
+{"id": "escuelajs_43", "title": "Elegant Purple Leather Loafers", "source": "escuelajs", "price": 17.0, "currency": "USD", "category": "Shoes", "processed_at": "2025-11-12T05:21:05.964370"}
+{"id": "escuelajs_44", "title": "Classic Blue Suede Casual Shoes", "source": "escuelajs", "price": 39.0, "currency": "USD", "category": "Shoes", "processed_at": "2025-11-12T05:21:05.964400"}
+{"id": "escuelajs_45", "title": "Sleek Futuristic Electric Bicycle", "source": "escuelajs", "price": 22.0, "currency": "USD", "category": "Miscellaneous", "processed_at": "2025-11-12T05:21:05.964430"}
+{"id": "escuelajs_46", "title": "Sleek All-Terrain Go-Kart", "source": "escuelajs", "price": 37.0, "currency": "USD", "category": "Miscellaneous", "processed_at": "2025-11-12T05:21:05.964466"}
+{"id": "escuelajs_47", "title": "Radiant Citrus Eau de Parfum", "source": "escuelajs", "price": 73.0, "currency": "USD", "category": "Miscellaneous", "processed_at": "2025-11-12T05:21:05.964496"}
+{"id": "escuelajs_48", "title": "Sleek Olive Green Hardshell Carry-On Luggage", "source": "escuelajs", "price": 48.0, "currency": "USD", "category": "Miscellaneous", "processed_at": "2025-11-12T05:21:05.964527"}
+{"id": "escuelajs_49", "title": "Chic Transparent Fashion Handbag", "source": "escuelajs", "price": 61.0, "currency": "USD", "category": "Miscellaneous", "processed_at": "2025-11-12T05:21:05.964556"}
+{"id": "escuelajs_50", "title": "Trendy Pink-Tinted Sunglasses", "source": "escuelajs", "price": 38.0, "currency": "USD", "category": "Miscellaneous", "processed_at": "2025-11-12T05:21:05.964584"}
+{"id": "jsonplaceholder_71", "title": "et iusto veniam et illum aut fuga", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.099435"}
+{"id": "jsonplaceholder_72", "title": "sint hic doloribus consequatur eos non id", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.099518"}
+{"id": "jsonplaceholder_73", "title": "consequuntur deleniti eos quia temporibus ab aliquid at", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.099665"}
+{"id": "jsonplaceholder_74", "title": "enim unde ratione doloribus quas enim ut sit sapiente", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.099688"}
+{"id": "jsonplaceholder_75", "title": "dignissimos eum dolor ut enim et delectus in", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.099706"}
+{"id": "jsonplaceholder_76", "title": "doloremque officiis ad et non perferendis", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.099723"}
+{"id": "jsonplaceholder_77", "title": "necessitatibus quasi exercitationem odio", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.099741"}
+{"id": "jsonplaceholder_78", "title": "quam voluptatibus rerum veritatis", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.099757"}
+{"id": "jsonplaceholder_79", "title": "pariatur consequatur quia magnam autem omnis non amet", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.099773"}
+{"id": "jsonplaceholder_80", "title": "labore in ex et explicabo corporis aut quas", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.099789"}
+{"id": "dummyjson_91", "title": "Sports Sneakers Off White & Red", "source": "dummyjson", "price": 119.99, "currency": "USD", "category": "mens-shoes", "processed_at": "2025-11-12T05:21:06.231459"}
+{"id": "dummyjson_92", "title": "Sports Sneakers Off White Red", "source": "dummyjson", "price": 109.99, "currency": "USD", "category": "mens-shoes", "processed_at": "2025-11-12T05:21:06.231523"}
+{"id": "dummyjson_93", "title": "Brown Leather Belt Watch", "source": "dummyjson", "price": 89.99, "currency": "USD", "category": "mens-watches", "processed_at": "2025-11-12T05:21:06.231546"}
+{"id": "dummyjson_94", "title": "Longines Master Collection", "source": "dummyjson", "price": 1499.99, "currency": "USD", "category": "mens-watches", "processed_at": "2025-11-12T05:21:06.231571"}
+{"id": "dummyjson_95", "title": "Rolex Cellini Date Black Dial", "source": "dummyjson", "price": 8999.99, "currency": "USD", "category": "mens-watches", "processed_at": "2025-11-12T05:21:06.231589"}
+{"id": "dummyjson_96", "title": "Rolex Cellini Moonphase", "source": "dummyjson", "price": 12999.99, "currency": "USD", "category": "mens-watches", "processed_at": "2025-11-12T05:21:06.231607"}
+{"id": "dummyjson_97", "title": "Rolex Datejust", "source": "dummyjson", "price": 10999.99, "currency": "USD", "category": "mens-watches", "processed_at": "2025-11-12T05:21:06.231625"}
+{"id": "dummyjson_98", "title": "Rolex Submariner Watch", "source": "dummyjson", "price": 13999.99, "currency": "USD", "category": "mens-watches", "processed_at": "2025-11-12T05:21:06.231644"}
+{"id": "dummyjson_99", "title": "Amazon Echo Plus", "source": "dummyjson", "price": 99.99, "currency": "USD", "category": "mobile-accessories", "processed_at": "2025-11-12T05:21:06.231661"}
+{"id": "dummyjson_100", "title": "Apple Airpods", "source": "dummyjson", "price": 129.99, "currency": "USD", "category": "mobile-accessories", "processed_at": "2025-11-12T05:21:06.231680"}
+{"id": "dummyjson_101", "title": "Apple AirPods Max Silver", "source": "dummyjson", "price": 549.99, "currency": "USD", "category": "mobile-accessories", "processed_at": "2025-11-12T05:21:06.361770"}
+{"id": "dummyjson_102", "title": "Apple Airpower Wireless Charger", "source": "dummyjson", "price": 79.99, "currency": "USD", "category": "mobile-accessories", "processed_at": "2025-11-12T05:21:06.361848"}
+{"id": "dummyjson_103", "title": "Apple HomePod Mini Cosmic Grey", "source": "dummyjson", "price": 99.99, "currency": "USD", "category": "mobile-accessories", "processed_at": "2025-11-12T05:21:06.361873"}
+{"id": "dummyjson_104", "title": "Apple iPhone Charger", "source": "dummyjson", "price": 19.99, "currency": "USD", "category": "mobile-accessories", "processed_at": "2025-11-12T05:21:06.361894"}
+{"id": "dummyjson_105", "title": "Apple MagSafe Battery Pack", "source": "dummyjson", "price": 99.99, "currency": "USD", "category": "mobile-accessories", "processed_at": "2025-11-12T05:21:06.361914"}
+{"id": "dummyjson_106", "title": "Apple Watch Series 4 Gold", "source": "dummyjson", "price": 349.99, "currency": "USD", "category": "mobile-accessories", "processed_at": "2025-11-12T05:21:06.361933"}
+{"id": "dummyjson_107", "title": "Beats Flex Wireless Earphones", "source": "dummyjson", "price": 49.99, "currency": "USD", "category": "mobile-accessories", "processed_at": "2025-11-12T05:21:06.361953"}
+{"id": "dummyjson_108", "title": "iPhone 12 Silicone Case with MagSafe Plum", "source": "dummyjson", "price": 29.99, "currency": "USD", "category": "mobile-accessories", "processed_at": "2025-11-12T05:21:06.361972"}
+{"id": "dummyjson_109", "title": "Monopod", "source": "dummyjson", "price": 19.99, "currency": "USD", "category": "mobile-accessories", "processed_at": "2025-11-12T05:21:06.361992"}
+{"id": "dummyjson_110", "title": "Selfie Lamp with iPhone", "source": "dummyjson", "price": 14.99, "currency": "USD", "category": "mobile-accessories", "processed_at": "2025-11-12T05:21:06.362011"}
+{"id": "jsonplaceholder_81", "title": "tempora rem veritatis voluptas quo dolores vero", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.362941"}
+{"id": "jsonplaceholder_82", "title": "laudantium voluptate suscipit sunt enim enim", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.362973"}
+{"id": "jsonplaceholder_83", "title": "odit et voluptates doloribus alias odio et", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.362992"}
+{"id": "jsonplaceholder_84", "title": "optio ipsam molestias necessitatibus occaecati facilis veritatis dolores aut", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.363010"}
+{"id": "jsonplaceholder_85", "title": "dolore veritatis porro provident adipisci blanditiis et sunt", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.363025"}
+{"id": "jsonplaceholder_86", "title": "placeat quia et porro iste", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.363040"}
+{"id": "jsonplaceholder_87", "title": "nostrum quis quasi placeat", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.363054"}
+{"id": "jsonplaceholder_88", "title": "sapiente omnis fugit eos", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.363068"}
+{"id": "jsonplaceholder_89", "title": "sint soluta et vel magnam aut ut sed qui", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.363085"}
+{"id": "jsonplaceholder_90", "title": "ad iusto omnis odit dolor voluptatibus", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.363099"}
+{"id": "dummyjson_111", "title": "Selfie Stick Monopod", "source": "dummyjson", "price": 12.99, "currency": "USD", "category": "mobile-accessories", "processed_at": "2025-11-12T05:21:06.472080"}
+{"id": "dummyjson_112", "title": "TV Studio Camera Pedestal", "source": "dummyjson", "price": 499.99, "currency": "USD", "category": "mobile-accessories", "processed_at": "2025-11-12T05:21:06.472176"}
+{"id": "dummyjson_121", "title": "iPhone 5s", "source": "dummyjson", "price": 199.99, "currency": "USD", "category": "smartphones", "processed_at": "2025-11-12T05:21:06.571753"}
+{"id": "dummyjson_122", "title": "iPhone 6", "source": "dummyjson", "price": 299.99, "currency": "USD", "category": "smartphones", "processed_at": "2025-11-12T05:21:06.571838"}
+{"id": "dummyjson_123", "title": "iPhone 13 Pro", "source": "dummyjson", "price": 1099.99, "currency": "USD", "category": "smartphones", "processed_at": "2025-11-12T05:21:06.571864"}
+{"id": "dummyjson_124", "title": "iPhone X", "source": "dummyjson", "price": 899.99, "currency": "USD", "category": "smartphones", "processed_at": "2025-11-12T05:21:06.571884"}
+{"id": "dummyjson_125", "title": "Oppo A57", "source": "dummyjson", "price": 249.99, "currency": "USD", "category": "smartphones", "processed_at": "2025-11-12T05:21:06.571902"}
+{"id": "dummyjson_126", "title": "Oppo F19 Pro Plus", "source": "dummyjson", "price": 399.99, "currency": "USD", "category": "smartphones", "processed_at": "2025-11-12T05:21:06.571918"}
+{"id": "dummyjson_127", "title": "Oppo K1", "source": "dummyjson", "price": 299.99, "currency": "USD", "category": "smartphones", "processed_at": "2025-11-12T05:21:06.571937"}
+{"id": "dummyjson_128", "title": "Realme C35", "source": "dummyjson", "price": 149.99, "currency": "USD", "category": "smartphones", "processed_at": "2025-11-12T05:21:06.571954"}
+{"id": "dummyjson_129", "title": "Realme X", "source": "dummyjson", "price": 299.99, "currency": "USD", "category": "smartphones", "processed_at": "2025-11-12T05:21:06.571970"}
+{"id": "dummyjson_130", "title": "Realme XT", "source": "dummyjson", "price": 349.99, "currency": "USD", "category": "smartphones", "processed_at": "2025-11-12T05:21:06.571986"}
+{"id": "dummyjson_131", "title": "Samsung Galaxy S7", "source": "dummyjson", "price": 299.99, "currency": "USD", "category": "smartphones", "processed_at": "2025-11-12T05:21:06.676567"}
+{"id": "dummyjson_132", "title": "Samsung Galaxy S8", "source": "dummyjson", "price": 499.99, "currency": "USD", "category": "smartphones", "processed_at": "2025-11-12T05:21:06.676625"}
+{"id": "dummyjson_133", "title": "Samsung Galaxy S10", "source": "dummyjson", "price": 699.99, "currency": "USD", "category": "smartphones", "processed_at": "2025-11-12T05:21:06.676644"}
+{"id": "dummyjson_134", "title": "Vivo S1", "source": "dummyjson", "price": 249.99, "currency": "USD", "category": "smartphones", "processed_at": "2025-11-12T05:21:06.676662"}
+{"id": "dummyjson_135", "title": "Vivo V9", "source": "dummyjson", "price": 299.99, "currency": "USD", "category": "smartphones", "processed_at": "2025-11-12T05:21:06.676677"}
+{"id": "dummyjson_136", "title": "Vivo X21", "source": "dummyjson", "price": 499.99, "currency": "USD", "category": "smartphones", "processed_at": "2025-11-12T05:21:06.676693"}
+{"id": "dummyjson_137", "title": "American Football", "source": "dummyjson", "price": 19.99, "currency": "USD", "category": "sports-accessories", "processed_at": "2025-11-12T05:21:06.676711"}
+{"id": "dummyjson_138", "title": "Baseball Ball", "source": "dummyjson", "price": 8.99, "currency": "USD", "category": "sports-accessories", "processed_at": "2025-11-12T05:21:06.676732"}
+{"id": "dummyjson_139", "title": "Baseball Glove", "source": "dummyjson", "price": 24.99, "currency": "USD", "category": "sports-accessories", "processed_at": "2025-11-12T05:21:06.676749"}
+{"id": "dummyjson_140", "title": "Basketball", "source": "dummyjson", "price": 14.99, "currency": "USD", "category": "sports-accessories", "processed_at": "2025-11-12T05:21:06.676766"}
+{"id": "jsonplaceholder_91", "title": "aut amet sed", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.694815"}
+{"id": "jsonplaceholder_92", "title": "ratione ex tenetur perferendis", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.694873"}
+{"id": "jsonplaceholder_93", "title": "beatae soluta recusandae", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.694891"}
+{"id": "jsonplaceholder_94", "title": "qui qui voluptates illo iste minima", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.694909"}
+{"id": "jsonplaceholder_95", "title": "id minus libero illum nam ad officiis", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.694923"}
+{"id": "jsonplaceholder_96", "title": "quaerat velit veniam amet cupiditate aut numquam ut sequi", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.694938"}
+{"id": "jsonplaceholder_97", "title": "quas fugiat ut perspiciatis vero provident", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.694953"}
+{"id": "jsonplaceholder_98", "title": "laboriosam dolor voluptates", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.694971"}
+{"id": "jsonplaceholder_99", "title": "temporibus sit alias delectus eligendi possimus magni", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.694986"}
+{"id": "jsonplaceholder_100", "title": "at nam consequatur ea labore ea harum", "source": "jsonplaceholder", "price": 9.99, "currency": "USD", "category": "post", "processed_at": "2025-11-12T05:21:06.695000"}
+{"id": "dummyjson_141", "title": "Basketball Rim", "source": "dummyjson", "price": 39.99, "currency": "USD", "category": "sports-accessories", "processed_at": "2025-11-12T05:21:07.336059"}
+{"id": "dummyjson_142", "title": "Cricket Ball", "source": "dummyjson", "price": 12.99, "currency": "USD", "category": "sports-accessories", "processed_at": "2025-11-12T05:21:07.336139"}
+{"id": "dummyjson_143", "title": "Cricket Bat", "source": "dummyjson", "price": 29.99, "currency": "USD", "category": "sports-accessories", "processed_at": "2025-11-12T05:21:07.336160"}
+{"id": "dummyjson_144", "title": "Cricket Helmet", "source": "dummyjson", "price": 44.99, "currency": "USD", "category": "sports-accessories", "processed_at": "2025-11-12T05:21:07.336177"}
+{"id": "dummyjson_145", "title": "Cricket Wicket", "source": "dummyjson", "price": 29.99, "currency": "USD", "category": "sports-accessories", "processed_at": "2025-11-12T05:21:07.336194"}
+{"id": "dummyjson_146", "title": "Feather Shuttlecock", "source": "dummyjson", "price": 5.99, "currency": "USD", "category": "sports-accessories", "processed_at": "2025-11-12T05:21:07.336208"}
+{"id": "dummyjson_147", "title": "Football", "source": "dummyjson", "price": 17.99, "currency": "USD", "category": "sports-accessories", "processed_at": "2025-11-12T05:21:07.336223"}
+{"id": "dummyjson_148", "title": "Golf Ball", "source": "dummyjson", "price": 9.99, "currency": "USD", "category": "sports-accessories", "processed_at": "2025-11-12T05:21:07.336240"}
+{"id": "dummyjson_149", "title": "Iron Golf", "source": "dummyjson", "price": 49.99, "currency": "USD", "category": "sports-accessories", "processed_at": "2025-11-12T05:21:07.336255"}
+{"id": "dummyjson_150", "title": "Metal Baseball Bat", "source": "dummyjson", "price": 29.99, "currency": "USD", "category": "sports-accessories", "processed_at": "2025-11-12T05:21:07.336273"}
+{"id": "dummyjson_151", "title": "Tennis Ball", "source": "dummyjson", "price": 6.99, "currency": "USD", "category": "sports-accessories", "processed_at": "2025-11-12T05:21:07.436791"}
+{"id": "dummyjson_152", "title": "Tennis Racket", "source": "dummyjson", "price": 49.99, "currency": "USD", "category": "sports-accessories", "processed_at": "2025-11-12T05:21:07.436862"}
+{"id": "dummyjson_153", "title": "Volleyball", "source": "dummyjson", "price": 11.99, "currency": "USD", "category": "sports-accessories", "processed_at": "2025-11-12T05:21:07.436887"}
+{"id": "dummyjson_154", "title": "Black Sun Glasses", "source": "dummyjson", "price": 29.99, "currency": "USD", "category": "sunglasses", "processed_at": "2025-11-12T05:21:07.436907"}
+{"id": "dummyjson_155", "title": "Classic Sun Glasses", "source": "dummyjson", "price": 24.99, "currency": "USD", "category": "sunglasses", "processed_at": "2025-11-12T05:21:07.436997"}
+{"id": "dummyjson_156", "title": "Green and Black Glasses", "source": "dummyjson", "price": 34.99, "currency": "USD", "category": "sunglasses", "processed_at": "2025-11-12T05:21:07.437018"}
+{"id": "dummyjson_157", "title": "Party Glasses", "source": "dummyjson", "price": 19.99, "currency": "USD", "category": "sunglasses", "processed_at": "2025-11-12T05:21:07.437037"}
+{"id": "dummyjson_158", "title": "Sunglasses", "source": "dummyjson", "price": 22.99, "currency": "USD", "category": "sunglasses", "processed_at": "2025-11-12T05:21:07.437055"}
+{"id": "dummyjson_159", "title": "iPad Mini 2021 Starlight", "source": "dummyjson", "price": 499.99, "currency": "USD", "category": "tablets", "processed_at": "2025-11-12T05:21:07.437072"}
+{"id": "dummyjson_160", "title": "Samsung Galaxy Tab S8 Plus Grey", "source": "dummyjson", "price": 599.99, "currency": "USD", "category": "tablets", "processed_at": "2025-11-12T05:21:07.437090"}
+{"id": "dummyjson_161", "title": "Samsung Galaxy Tab White", "source": "dummyjson", "price": 349.99, "currency": "USD", "category": "tablets", "processed_at": "2025-11-12T05:21:07.537162"}
+{"id": "dummyjson_162", "title": "Blue Frock", "source": "dummyjson", "price": 29.99, "currency": "USD", "category": "tops", "processed_at": "2025-11-12T05:21:07.537230"}
+{"id": "dummyjson_163", "title": "Girl Summer Dress", "source": "dummyjson", "price": 19.99, "currency": "USD", "category": "tops", "processed_at": "2025-11-12T05:21:07.537257"}
+{"id": "dummyjson_164", "title": "Gray Dress", "source": "dummyjson", "price": 34.99, "currency": "USD", "category": "tops", "processed_at": "2025-11-12T05:21:07.537277"}
+{"id": "dummyjson_165", "title": "Short Frock", "source": "dummyjson", "price": 24.99, "currency": "USD", "category": "tops", "processed_at": "2025-11-12T05:21:07.537295"}
+{"id": "dummyjson_166", "title": "Tartan Dress", "source": "dummyjson", "price": 39.99, "currency": "USD", "category": "tops", "processed_at": "2025-11-12T05:21:07.537312"}
+{"id": "dummyjson_167", "title": "300 Touring", "source": "dummyjson", "price": 28999.99, "currency": "USD", "category": "vehicle", "processed_at": "2025-11-12T05:21:07.537329"}
+{"id": "dummyjson_168", "title": "Charger SXT RWD", "source": "dummyjson", "price": 32999.99, "currency": "USD", "category": "vehicle", "processed_at": "2025-11-12T05:21:07.537347"}
+{"id": "dummyjson_169", "title": "Dodge Hornet GT Plus", "source": "dummyjson", "price": 24999.99, "currency": "USD", "category": "vehicle", "processed_at": "2025-11-12T05:21:07.537365"}
+{"id": "dummyjson_170", "title": "Durango SXT RWD", "source": "dummyjson", "price": 36999.99, "currency": "USD", "category": "vehicle", "processed_at": "2025-11-12T05:21:07.537381"}
+{"id": "dummyjson_171", "title": "Pacifica Touring", "source": "dummyjson", "price": 31999.99, "currency": "USD", "category": "vehicle", "processed_at": "2025-11-12T05:21:07.641667"}
+{"id": "dummyjson_172", "title": "Blue Women's Handbag", "source": "dummyjson", "price": 49.99, "currency": "USD", "category": "womens-bags", "processed_at": "2025-11-12T05:21:07.641701"}
+{"id": "dummyjson_173", "title": "Heshe Women's Leather Bag", "source": "dummyjson", "price": 129.99, "currency": "USD", "category": "womens-bags", "processed_at": "2025-11-12T05:21:07.641716"}
+{"id": "dummyjson_174", "title": "Prada Women Bag", "source": "dummyjson", "price": 599.99, "currency": "USD", "category": "womens-bags", "processed_at": "2025-11-12T05:21:07.641726"}
+{"id": "dummyjson_175", "title": "White Faux Leather Backpack", "source": "dummyjson", "price": 39.99, "currency": "USD", "category": "womens-bags", "processed_at": "2025-11-12T05:21:07.641735"}
+{"id": "dummyjson_176", "title": "Women Handbag Black", "source": "dummyjson", "price": 59.99, "currency": "USD", "category": "womens-bags", "processed_at": "2025-11-12T05:21:07.641743"}
+{"id": "dummyjson_177", "title": "Black Women's Gown", "source": "dummyjson", "price": 129.99, "currency": "USD", "category": "womens-dresses", "processed_at": "2025-11-12T05:21:07.641751"}
+{"id": "dummyjson_178", "title": "Corset Leather With Skirt", "source": "dummyjson", "price": 89.99, "currency": "USD", "category": "womens-dresses", "processed_at": "2025-11-12T05:21:07.641759"}
+{"id": "dummyjson_179", "title": "Corset With Black Skirt", "source": "dummyjson", "price": 79.99, "currency": "USD", "category": "womens-dresses", "processed_at": "2025-11-12T05:21:07.641767"}
+{"id": "dummyjson_180", "title": "Dress Pea", "source": "dummyjson", "price": 49.99, "currency": "USD", "category": "womens-dresses", "processed_at": "2025-11-12T05:21:07.641775"}
+{"id": "dummyjson_181", "title": "Marni Red & Black Suit", "source": "dummyjson", "price": 179.99, "currency": "USD", "category": "womens-dresses", "processed_at": "2025-11-12T05:21:07.740933"}
+{"id": "dummyjson_182", "title": "Green Crystal Earring", "source": "dummyjson", "price": 29.99, "currency": "USD", "category": "womens-jewellery", "processed_at": "2025-11-12T05:21:07.740980"}
+{"id": "dummyjson_183", "title": "Green Oval Earring", "source": "dummyjson", "price": 24.99, "currency": "USD", "category": "womens-jewellery", "processed_at": "2025-11-12T05:21:07.741002"}
+{"id": "dummyjson_184", "title": "Tropical Earring", "source": "dummyjson", "price": 19.99, "currency": "USD", "category": "womens-jewellery", "processed_at": "2025-11-12T05:21:07.741017"}
+{"id": "dummyjson_185", "title": "Black & Brown Slipper", "source": "dummyjson", "price": 19.99, "currency": "USD", "category": "womens-shoes", "processed_at": "2025-11-12T05:21:07.741030"}
+{"id": "dummyjson_186", "title": "Calvin Klein Heel Shoes", "source": "dummyjson", "price": 79.99, "currency": "USD", "category": "womens-shoes", "processed_at": "2025-11-12T05:21:07.741042"}
+{"id": "dummyjson_187", "title": "Golden Shoes Woman", "source": "dummyjson", "price": 49.99, "currency": "USD", "category": "womens-shoes", "processed_at": "2025-11-12T05:21:07.741055"}
+{"id": "dummyjson_188", "title": "Pampi Shoes", "source": "dummyjson", "price": 29.99, "currency": "USD", "category": "womens-shoes", "processed_at": "2025-11-12T05:21:07.741066"}
+{"id": "dummyjson_189", "title": "Red Shoes", "source": "dummyjson", "price": 34.99, "currency": "USD", "category": "womens-shoes", "processed_at": "2025-11-12T05:21:07.741079"}
+{"id": "dummyjson_190", "title": "IWC Ingenieur Automatic Steel", "source": "dummyjson", "price": 4999.99, "currency": "USD", "category": "womens-watches", "processed_at": "2025-11-12T05:21:07.741091"}
+{"id": "dummyjson_191", "title": "Rolex Cellini Moonphase", "source": "dummyjson", "price": 15999.99, "currency": "USD", "category": "womens-watches", "processed_at": "2025-11-12T05:21:08.438626"}
+{"id": "dummyjson_192", "title": "Rolex Datejust Women", "source": "dummyjson", "price": 10999.99, "currency": "USD", "category": "womens-watches", "processed_at": "2025-11-12T05:21:08.438704"}
+{"id": "dummyjson_193", "title": "Watch Gold for Women", "source": "dummyjson", "price": 799.99, "currency": "USD", "category": "womens-watches", "processed_at": "2025-11-12T05:21:08.438725"}
+{"id": "dummyjson_194", "title": "Women's Wrist Watch", "source": "dummyjson", "price": 129.99, "currency": "USD", "category": "womens-watches", "processed_at": "2025-11-12T05:21:08.438746"}
+{"id": "dummyjson_113", "title": "Generic Motorcycle", "source": "dummyjson", "price": 3999.99, "currency": "USD", "category": "motorcycle", "processed_at": "2025-11-12T05:21:06.472349"}
+{"id": "dummyjson_114", "title": "Kawasaki Z800", "source": "dummyjson", "price": 8999.99, "currency": "USD", "category": "motorcycle", "processed_at": "2025-11-12T05:21:06.472393"}
+{"id": "dummyjson_115", "title": "MotoGP CI.H1", "source": "dummyjson", "price": 14999.99, "currency": "USD", "category": "motorcycle", "processed_at": "2025-11-12T05:21:06.472425"}
+{"id": "dummyjson_116", "title": "Scooter Motorcycle", "source": "dummyjson", "price": 2999.99, "currency": "USD", "category": "motorcycle", "processed_at": "2025-11-12T05:21:06.472458"}
+{"id": "dummyjson_117", "title": "Sportbike Motorcycle", "source": "dummyjson", "price": 7499.99, "currency": "USD", "category": "motorcycle", "processed_at": "2025-11-12T05:21:06.472490"}
+{"id": "dummyjson_118", "title": "Attitude Super Leaves Hand Soap", "source": "dummyjson", "price": 8.99, "currency": "USD", "category": "skin-care", "processed_at": "2025-11-12T05:21:06.472520"}
+{"id": "dummyjson_119", "title": "Olay Ultra Moisture Shea Butter Body Wash", "source": "dummyjson", "price": 12.99, "currency": "USD", "category": "skin-care", "processed_at": "2025-11-12T05:21:06.472552"}
+{"id": "dummyjson_120", "title": "Vaseline Men Body and Face Lotion", "source": "dummyjson", "price": 9.99, "currency": "USD", "category": "skin-care", "processed_at": "2025-11-12T05:21:06.472585"}
+{"id": "escuelajs_51", "title": "Elegant Glass Tumbler Set", "source": "escuelajs", "price": 50.0, "currency": "USD", "category": "Miscellaneous", "processed_at": "2025-11-12T05:21:06.494144"}
+{"id": "escuelajs_52", "title": "113", "source": "escuelajs", "price": 113.0, "currency": "USD", "category": "Clothes", "processed_at": "2025-11-12T05:21:06.494256"}
+{"id": "escuelajs_53", "title": "123", "source": "escuelajs", "price": 123.0, "currency": "USD", "category": "Clothes", "processed_at": "2025-11-12T05:21:06.494283"}
+{"id": "escuelajs_54", "title": "New Product", "source": "escuelajs", "price": 10.0, "currency": "USD", "category": "Clothes", "processed_at": "2025-11-12T05:21:06.494300"}
+{"id": "escuelajs_55", "title": "bed", "source": "escuelajs", "price": 199.0, "currency": "USD", "category": "Furniture", "processed_at": "2025-11-12T05:21:06.494318"}

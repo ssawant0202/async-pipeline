@@ -1,0 +1,100 @@
+{
+  "total_products": 349,
+  "processing_time_seconds": 4.59,
+  "success_rate": 100.0,
+  "output_file": "products.ndjson",
+  "statistics": {
+    "total_products": 349,
+    "failed_normalizations": 0,
+    "products_by_category": {
+      "beauty": 5,
+      "fragrances": 5,
+      "furniture": 5,
+      "groceries": 27,
+      "post": 100,
+      "home-decoration": 5,
+      "kitchen-accessories": 30,
+      "Clothes": 20,
+      "laptops": 5,
+      "mens-shirts": 5,
+      "mens-shoes": 5,
+      "Electronics": 10,
+      "Furniture": 8,
+      "Shoes": 10,
+      "Miscellaneous": 7,
+      "mens-watches": 6,
+      "mobile-accessories": 14,
+      "motorcycle": 5,
+      "skin-care": 3,
+      "smartphones": 16,
+      "sports-accessories": 17,
+      "sunglasses": 5,
+      "tablets": 3,
+      "tops": 5,
+      "vehicle": 5,
+      "womens-bags": 5,
+      "womens-dresses": 5,
+      "womens-jewellery": 3,
+      "womens-shoes": 5,
+      "womens-watches": 5
+    },
+    "products_by_source": {
+      "dummyjson": 194,
+      "jsonplaceholder": 100,
+      "escuelajs": 55
+    },
+    "average_price_by_category": {
+      "beauty": 13.39,
+      "fragrances": 83.99,
+      "furniture": 1199.99,
+      "groceries": 5.47,
+      "post": 9.99,
+      "home-decoration": 38.99,
+      "kitchen-accessories": 17.69,
+      "Clothes": 62.7,
+      "laptops": 1559.99,
+      "mens-shirts": 27.59,
+      "mens-shoes": 109.99,
+      "Electronics": 42.1,
+      "Furniture": 69.25,
+      "Shoes": 43.5,
+      "Miscellaneous": 47.0,
+      "mens-watches": 8098.32,
+      "mobile-accessories": 146.99,
+      "motorcycle": 7699.99,
+      "skin-care": 10.66,
+      "smartphones": 424.99,
+      "sports-accessories": 24.11,
+      "sunglasses": 26.59,
+      "tablets": 483.32,
+      "tops": 29.99,
+      "vehicle": 31199.99,
+      "womens-bags": 175.99,
+      "womens-dresses": 105.99,
+      "womens-jewellery": 24.99,
+      "womens-shoes": 42.99,
+      "womens-watches": 6585.99
+    }
+  },
+  "endpoints": {
+    "jsonplaceholder": {
+      "requests_sent": 11,
+      "requests_failed": 0,
+      "items_fetched": 100
+    },
+    "dummyjson": {
+      "requests_sent": 21,
+      "requests_failed": 0,
+      "items_fetched": 194
+    },
+    "escuelajs": {
+      "requests_sent": 7,
+      "requests_failed": 0,
+      "items_fetched": 55
+    }
+  },
+  "errors": {
+    "failed_requests": 0,
+    "failed_normalizations": 0
+  }
+}
